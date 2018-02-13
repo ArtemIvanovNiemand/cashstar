@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
   #s.files = Dir['lib/**/*.rb']
 
-  s.add_dependency 'hashie', '~> 1.2'
+  s.add_dependency 'hashie', '>= 2.1.0'
   s.add_dependency 'faraday', '~> 0.9'
   s.add_dependency 'faraday_middleware', '~> 0.9'
   s.add_dependency 'multi_json', '~> 1.13.0'
