@@ -3,7 +3,7 @@ require "cashstar/version"
 
 Gem::Specification.new do |s|
   s.name        = "cashstar"
-  s.version     = Cashstar::VERSION
+  s.version     = "1.0.0"
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Charlie White"]
   s.email       = ["cwhite@cashstar.com"]
